@@ -2,6 +2,8 @@
 
 > Uma ferramenta online que ajuda você a dividir qualquer tipo de arquivo em partes iguais, com processamento totalmente no navegador para máxima privacidade e segurança.
 
+🌐 **[Acesse a ferramenta online](https://textfilesplitter.felixbr.org)**
+
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](https://vitejs.dev/)
@@ -117,4 +119,5 @@ Acesse em: `http://localhost:3000`
 ## 📝 Licença
 
 Copyright 2025 © - FelixBR - Todos os direitos reservados
+# textfilesplitter
 # textfilesplitter
