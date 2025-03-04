@@ -120,4 +120,3 @@ Acesse em: `http://localhost:3000`
 
 Copyright 2025 © - FelixBR - Todos os direitos reservados
 # textfilesplitter
-# textfilesplitter
